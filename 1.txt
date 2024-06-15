@@ -1,4 +1,3 @@
 Init
 
 Commit from feature-1
-Commit from feature-2
