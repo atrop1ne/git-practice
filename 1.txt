@@ -4,3 +4,4 @@ Commit from feature-1
 Commit from feature-2
 
 Commit from dev
+Commit from dev
