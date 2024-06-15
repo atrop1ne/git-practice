@@ -1,3 +1,1 @@
 Init
-
-Commit from feature-1
