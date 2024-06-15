@@ -1,1 +1,4 @@
 Commit into file "3" from branch feature-2
+
+fix-1
+fix-2
