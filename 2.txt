@@ -1,3 +1,4 @@
 Commit into file "2" from branch feature-1
 
 change-1
+change-2
